@@ -68,3 +68,5 @@ https://winscp.net/eng/index.php untuk memindahkan file ke iso yang digunakan.
 ````
 Masukkan nama user, ip, port, dan juga password untuk bisa mengakses winscp agar bisa memindahkan file 
 ![image](https://github.com/Paksel/FINAL-SERVER/assets/145017392/74d2fb46-48f3-493d-9458-5b48c352a412)
+
+https://youtu.be/8re7RW0rdpA?si=yZQzoJePUt3yzNY0
